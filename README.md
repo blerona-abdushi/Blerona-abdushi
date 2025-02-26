@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**blerona-abdushi/Blerona-abdushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Blerona**, a passionate front-end developer based in North Macedonia. I'm currently learning and expanding my skills in various technologies, including:
 
-Here are some ideas to get you started:
+- **HTML**, **CSS**, **JavaScript**
+- **React.js**, **Vue.js**
+- **Express.js**
+- **GitHub**, **VS Code**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love building projects and continuously improving my coding skills. Below, you can find links to some of my projects and my portfolio:
+
+- **GitHub Profile**: [blerona-abdushi](https://github.com/blerona-abdushi)
+- **Vercel Projects**: [My Vercel Projects](https://vercel.com/blerona-abdushi)
+
+Feel free to explore my work and reach out if you'd like to collaborate or connect!
+
+---
+
+**I'm still learning**, and every day is a new opportunity to grow. 🚀
