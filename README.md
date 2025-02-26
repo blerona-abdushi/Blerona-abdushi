@@ -9,7 +9,7 @@ I'm **Blerona**, a passionate front-end developer based in North Macedonia. I'm 
 
 I love building projects and continuously improving my coding skills. Below, you can find links to some of my projects and my portfolio:
 
-- **GitHub Profile**: [blerona-abdushi](https://github.com/blerona-abdushi)
+- **GitHub Profile**: [blerona-abdushi](https://github.com/blerona-abdushi
 - **Vercel Projects**: [My Vercel Projects](https://vercel.com/blerona-abdushi)
 
 Feel free to explore my work and reach out if you'd like to collaborate or connect!
